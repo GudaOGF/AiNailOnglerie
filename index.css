@@ -312,6 +312,8 @@ section > p {
 
 .contact-item p {
     color: #ccc;
+    text-decoration: none;
+    font-size: 2rem;
 }
 
 /* FOOTER */
